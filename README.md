@@ -9,4 +9,4 @@ fractionalNumber sum(fractionalNumber, fractionalNumber);
 fractionalNumber multiply(fractionalNumber, fractionalNumber);
 fractionalNumber division(fractionalNumber, fractionalNumber);
 
-Можем ли да "оптимизираме"" анотацията тук?
+Можем ли да "оптимизираме" анотацията тук?
