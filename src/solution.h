@@ -2,6 +2,6 @@
 #define WEEEK_01
 
 int factorial(int);
-void mySort(int* a, const size_t size);
+void mySort(int* a, const int size);
 
 #endif //WEEEK_01

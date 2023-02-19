@@ -1,6 +1,6 @@
 #include "solution.h"
 
-void mySort(int* a, const size_t size) {
+void mySort(int* a, const int size) {
     return;
 }
 
